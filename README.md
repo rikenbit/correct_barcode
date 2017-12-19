@@ -34,4 +34,4 @@ Options:
 ```
 
 ## Lisense
-MIT
+[MIT](https://raw.githubusercontent.com/rikenbit/correct_barcode/master/LICENSE)
