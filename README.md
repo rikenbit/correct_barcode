@@ -1,4 +1,6 @@
 # correct_bacode.py
+[![DOI](https://zenodo.org/badge/114735129.svg)](https://zenodo.org/badge/latestdoi/114735129)
+
 The command is correction of cell barcoding containing RT primer sets for Quartz-Seq2 which one of a high throughput single-cell RNA-sequencing [1]. The cell barcdes of Quartz-Seq2 are designed such that the minimum Sequence–Levenshtein distance between two sequences should be greater than 5, which leads to the correction of two nucleotides of mismatch, insertion and deletion in sequence reads [2]. The program can correct cell barcode if sequence error are occured.
 
 1. [Sasagawa Y et al. Quartz-Seq2: a high-throughput single-cell RNA-sequencing method that effectively uses limited sequence reads](https://www.biorxiv.org/content/early/2017/07/21/159384)
